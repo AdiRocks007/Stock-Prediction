@@ -81,7 +81,7 @@ streamlit run app.py
 
 Watch this screen recording to see the application in action!
 
-[Watch the video on Google Drive]([https://drive.google.com/file/d/your-file-id/view](https://drive.google.com/file/d/1_6exwmbZgXnMwr58Y_I4WdV_G8Iftnov/view?usp=drive_link))
+![Watch the video on Google Drive]([https://drive.google.com/file/d/your-file-id/view](https://drive.google.com/file/d/1_6exwmbZgXnMwr58Y_I4WdV_G8Iftnov/view?usp=drive_link))
 
 ---
 
