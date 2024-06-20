@@ -69,13 +69,13 @@ streamlit run app.py
 ## Screenshots
 
 ### 1. Input Dialog
-![Input Dialog](screenshots/input_dialog.png)
+![Input Dialog](stock1.png)
 
 ### 2. Data Visualization
-![Data Visualization](screenshots/data_visualization.png)
+![Data Visualization](stock2.png)
 
 ### 3. Forecasted Results
-![Forecasted Results](screenshots/forecasted_results.png)
+![Forecasted Results](stock3.png)
 
 ## Screen Recording
 
