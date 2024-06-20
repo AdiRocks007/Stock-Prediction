@@ -81,10 +81,7 @@ streamlit run app.py
 
 Watch this screen recording to see the application in action!
 
-<video width="640" height="480" controls>
-  <source src="stockvid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](stockvid.gif)](stockvid.mp4)
 
 
 
